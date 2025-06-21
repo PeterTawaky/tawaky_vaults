@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "0e04b1d63bc82fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e3bb73225ebda7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "851703b181c4619e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back Ground/1. Changing App Icon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Changing App Icon"
+            }
+          },
+          {
+            "id": "ba637ac8e0d98d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal Timer in Flutter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internal Timer in Flutter"
+            }
+          },
+          {
+            "id": "6c45dfa10d3be17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splash Screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Splash Screen"
+            }
+          },
+          {
+            "id": "d69b07439977c04e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back Ground/3. Adding Asset Image Professionally.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Adding Asset Image Professionally"
+            }
+          },
+          {
+            "id": "d306b3a1a1cdcb27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splash Screen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Splash Screen"
+            }
+          },
+          {
+            "id": "a4b272622e69fe34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back Ground/3. Adding Asset Image Professionally.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Adding Asset Image Professionally"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7333ae1d1da9c2bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e5ef7a70d8771f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13d09d9215851c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f1e2c461266f357",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7371bad8d2f2a760",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5adfe0842819b793",
+    "type": "split",
+    "children": [
+      {
+        "id": "19cd2060dfc5aa96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787220c21b665cab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9fe5ca79588be17b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "480bcd344dd0600c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51c4440b73a9dbaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f1e2c461266f357",
+  "lastOpenFiles": [
+    "Create a Root Folder and Files Structure.md",
+    "Splash Screen.md",
+    "Adding External Link to Open.md",
+    "Searching in Flutter/Searching In Flutter.md",
+    "Searching in Flutter/Flutter Built in Search.md",
+    "Features/Local Authentication.md",
+    "Features/Internal Timer in Flutter.md",
+    "Features/Check Internet Connection.md",
+    "Features/Changing app name according to Device Language.md",
+    "Features/Change App Language.md",
+    "Features/Add Image to your App.md",
+    "Back Ground/Status Bar of the Mobile.md",
+    "Back Ground/Lock Orientation.md",
+    "Back Ground/Flutter Fonts.md",
+    "Back Ground/Create a Custom Icon Font.md",
+    "Back Ground/4. Fonts Like Professionals.md",
+    "Back Ground/3. Adding Asset Image Professionally.md",
+    "Back Ground/2. Changing App Name, Bundle id, Package Name and App SHA.md",
+    "Back Ground/1. Changing App Icon.md",
+    "Back Ground/to be deleted.md",
+    "Welcome.md"
+  ]
+}

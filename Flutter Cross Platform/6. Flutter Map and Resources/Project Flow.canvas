@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"40348fc5fdb7b8af","type":"text","text":"# Create Project\n`flutter create --org com.tawakycreation app_name`","x":-520,"y":-80,"width":360,"height":100},
+		{"id":"72f92ba222e050e3","type":"file","file":"Back Ground/Adding Routes by Package.md","x":700,"y":-140,"width":400,"height":136},
+		{"id":"27e59c47ad7a41a6","type":"file","file":"Setup Work Environment ().md","x":240,"y":-74,"width":400,"height":88},
+		{"id":"0c838e0a3961a9b8","type":"text","text":"### Make assets Folder\nuse SVG Images","x":-75,"y":-88,"width":255,"height":119},
+		{"id":"220867b8c32f2d78","type":"text","text":"Fonts","x":240,"y":-340,"width":113,"height":60},
+		{"id":"ce39bfdfaa6c284e","type":"text","text":"images","x":-10,"y":-340,"width":125,"height":60},
+		{"id":"1b399ac91a4a0bd3","type":"text","text":"icons","x":-212,"y":-340,"width":105,"height":60},
+		{"id":"df798a12b06f1672","type":"file","file":"Back Ground/1. Changing App Icon.md","x":699,"y":92,"width":400,"height":68},
+		{"id":"d166a9bba21bc741","type":"file","file":"Features/Change App Language.md","x":698,"y":258,"width":400,"height":50},
+		{"id":"e77e06f25e1bd6ea","type":"file","file":"Folders Architecture.md","x":698,"y":382,"width":400,"height":58},
+		{"id":"e100b7ce9084a0cb","type":"file","file":"Presentation Layer/Widgets/Styling and Theming/ThemeData.md","x":290,"y":90,"width":400,"height":50},
+		{"id":"fab888aa523aedbf","type":"file","file":"Presentation Layer/Refactoring/Reusable Components.md","x":-47,"y":308,"width":400,"height":55},
+		{"id":"85c3c09a5bc14277","type":"file","file":"Back Ground/3. Adding Asset Image Professionally.md","x":-210,"y":126,"width":400,"height":98}
+	],
+	"edges":[
+		{"id":"36d2e933424aa93b","fromNode":"0c838e0a3961a9b8","fromSide":"top","toNode":"220867b8c32f2d78","toSide":"bottom"},
+		{"id":"554270dcc87d24d6","fromNode":"0c838e0a3961a9b8","fromSide":"top","toNode":"ce39bfdfaa6c284e","toSide":"bottom"},
+		{"id":"a129b3fc0ab3e190","fromNode":"0c838e0a3961a9b8","fromSide":"top","toNode":"1b399ac91a4a0bd3","toSide":"bottom"}
+	]
+}

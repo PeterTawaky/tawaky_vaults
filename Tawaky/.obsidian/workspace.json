@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "4f17987dcd1b1920",
+    "type": "split",
+    "children": [
+      {
+        "id": "532cbe9cf706da9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11dcd4dcf32895ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "self-awareness/What really makes you Happy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What really makes you Happy"
+            }
+          },
+          {
+            "id": "017e25a244a18804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "self-awareness/What really makes you Happy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What really makes you Happy"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b0e957d4f4534816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e2df8fd45ee38f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47e8f3dfadc602f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc566b0701ab5d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e96dc6230989c9a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de357577878e948e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "11f8181e58aebd38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94fa3f5f42bfa8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a781ff4fcc6751d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46228b30b03eea6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "self-awareness/What really makes you Happy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What really makes you Happy"
+            }
+          },
+          {
+            "id": "a86c4db17d8c67d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "self-awareness/What really makes you Happy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from What really makes you Happy"
+            }
+          },
+          {
+            "id": "2250a0d5d846abab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2d0716f829fa90a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "self-awareness/What really makes you Happy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of What really makes you Happy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "017e25a244a18804",
+  "lastOpenFiles": [
+    "Build your Personality/ازاي تقول رأيك، نقدك وتكسب الناس.md",
+    "self-awareness/What really makes you Happy.md",
+    "Build your Personality",
+    "self-awareness",
+    "Tawaky.md",
+    "go inside"
+  ]
+}

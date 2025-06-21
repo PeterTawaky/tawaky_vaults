@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiBrainCircuit",
+      "LiALargeSmall",
+      "LiExcalidrawIcon",
+      "LiImage"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01 - Resources": "📚",
+  "00 - Inbox": "🧠",
+  "03 - Templates": {
+    "iconName": "LiLayout",
+    "iconColor": "#9a25a2"
+  },
+  "05 - Code Snippets": {
+    "iconName": "LiCodeXml",
+    "iconColor": "#f50000"
+  },
+  "04 - Tags-Index": "🔗",
+  "Assets": {
+    "iconName": "LiImage",
+    "iconColor": "#2ea36c"
+  },
+  "Excalidraw": {
+    "iconName": "LiBrainCircuit",
+    "iconColor": "#002aff"
+  },
+  "Archive": {
+    "iconName": "LiArchive",
+    "iconColor": "#ff0a0a"
+  }
+}

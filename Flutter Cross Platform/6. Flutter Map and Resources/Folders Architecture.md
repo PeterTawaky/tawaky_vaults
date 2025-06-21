@@ -1,0 +1,33 @@
+- routes
+	- 
+	- 
+- Constants
+	- keys
+		- `cache_keys.dart`
+- data
+	- services =>catch errors and return List of `json` return empty list when error
+		- `cache`
+			- `sqldb.dart`
+			- `cached_data.dart` => contains shared preference
+		- `api`
+		- firebase
+			- `auth.dart`
+	- repository =>return List of Models
+	- models => variables and `model.fromJson`
+- logic
+	- bloc
+	- cubit
+- presentation
+	- modules
+		- authentication
+			- `login_screen.dart`
+			- `create_account_screen.dart`
+	- layout
+	- screens
+		- route_error_screen
+	- components
+- helpers
+	- observer
+		- `my_bloc_observer.dart`
+		- `my_route_observer.dart`
+		- `auth_observer.dart`

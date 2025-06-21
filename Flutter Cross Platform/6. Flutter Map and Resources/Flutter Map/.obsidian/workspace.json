@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "cc8cb250021f33a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eda140c2ec67e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5c5c6d046e24a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Courses and Diplomas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Courses and Diplomas"
+            }
+          },
+          {
+            "id": "e09b789510299627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Courses and Diplomas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Courses and Diplomas"
+            }
+          },
+          {
+            "id": "3953a364f067fd84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects to work on.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects to work on"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8892bf7542a9016",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e20928e6b725a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4778b963645e77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3c091d9941e2f774",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55b451b651128880",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65e5b00aad52d2fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "160d570a9cba2c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9002bb93422aa328",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects to work on.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Projects to work on"
+            }
+          },
+          {
+            "id": "4e70af4b2db30c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects to work on.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Projects to work on"
+            }
+          },
+          {
+            "id": "29f766dc4713a825",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c03a24b58af2ae7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects to work on.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Projects to work on"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e09b789510299627",
+  "lastOpenFiles": [
+    "Flutter Resources and Documentations.md",
+    "Shortcuts.md",
+    "Things I want to Search about.md",
+    "Learning Courses and Diplomas.md",
+    "Projects to work on.md",
+    "Resources to read Later.md",
+    "Useful Websites for Flutter.md",
+    "Flutter Widgets.md",
+    "WelcomeWelcome.md"
+  ]
+}

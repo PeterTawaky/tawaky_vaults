@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "4f9abc41f682f4e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26e9a4aae10ccc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9539d09aa4a5557a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freelancing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freelancing"
+            }
+          },
+          {
+            "id": "12836e75600b9125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Make Portfolio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Make Portfolio"
+            }
+          },
+          {
+            "id": "6ddd000bfd81d03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATS Friendly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATS Friendly"
+            }
+          },
+          {
+            "id": "c18e041c3b00c338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email Message.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Email Message"
+            }
+          },
+          {
+            "id": "4bf5f828d34522f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV"
+            }
+          },
+          {
+            "id": "8ae2042e0f529cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATS Application Tracking System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATS Application Tracking System"
+            }
+          },
+          {
+            "id": "1363081e0b69f77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV"
+            }
+          },
+          {
+            "id": "04fe56afd7f21f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latex Templates.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latex Templates"
+            }
+          },
+          {
+            "id": "b58028185b569c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATS Friendly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATS Friendly"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a93149edb71cbfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9904451a630fb5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "133d778f16a0d45c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb86cc15d1adabff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "daa80ae6edc0de78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fad7e9dfb6c3330a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8d1dedf214db4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a4ad963a80dfc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ATS Application Tracking System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ATS Application Tracking System"
+            }
+          },
+          {
+            "id": "a01fa5a767102bb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ATS Application Tracking System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ATS Application Tracking System"
+            }
+          },
+          {
+            "id": "84da8abbc98c5483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c63ec726663a0753",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Make Portfolio.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Make Portfolio"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c18e041c3b00c338",
+  "lastOpenFiles": [
+    "Freelancing.md",
+    "ATS Friendly.md",
+    "CV.md",
+    "Email Message.md",
+    "Websites.md",
+    "How to Start.md",
+    "Latex Templates.md",
+    "LinkedIn.md",
+    "[Home.md",
+    "Make Portfolio.md",
+    "ATS (Application Tracking System.md"
+  ]
+}

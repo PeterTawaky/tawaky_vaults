@@ -1,0 +1,43 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "03 - Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "03 - Templates/Templates-Project.md",
+    "03 - Templates/Template-Fleeting Note.md",
+    "03 - Templates/Template-Linking Note.md",
+    "03 - Templates/Template-Permanent Note.md",
+    "03 - Templates/Template-Literature Note.md",
+    "03 - Templates/Template-Unprocessed Note.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

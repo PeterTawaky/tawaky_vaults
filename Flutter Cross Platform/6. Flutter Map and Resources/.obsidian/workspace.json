@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "e56ad76a4dc98a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "54241954d1a631cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db71ff8d85ecfc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter Map/Projects to work on.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects to work on"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb178a7699fa62fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f91e13c8db2adda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f781e2d14544c0e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "120ddb104b77684f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "packages",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b645694e4d5b10f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0bfafae4f260d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c06a54b416aed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5161fb16f57923",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e301827b6b171ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d2e96821d9ab816a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ac3de5d6e8fca18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2db71ff8d85ecfc6",
+  "lastOpenFiles": [
+    "GitHub Repositories.md",
+    "Figma Links.md",
+    "Mastering Design Beautiful UI/Gradient inside Colors in Container.md",
+    "Mastering Design Beautiful UI/3D Container.md",
+    "Setup Work Environment ().md",
+    "Folders Architecture.md",
+    "Project Flow.canvas",
+    "Useful Websites.md",
+    "Flutter Map/Projects to work on.md",
+    "Flutter Map/Learning Courses and Diplomas.md",
+    "Flutter Map/Flutter Resources and Documentations.md",
+    "Flutter Most Important Websites.md",
+    "Welcome.md"
+  ]
+}

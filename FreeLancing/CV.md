@@ -1,0 +1,5 @@
+- [[ATS Friendly|ATS Friendly]]
+- choose a template according to your level
+	- fresh-graduate level
+	- mid-level
+	- senior level

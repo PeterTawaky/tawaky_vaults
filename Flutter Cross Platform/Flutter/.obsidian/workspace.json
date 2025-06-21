@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "3aa3a68f618e84e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b43ea2b65fb0672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8074400fd03bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup Work Environment (Packages).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup Work Environment (Packages)"
+            }
+          },
+          {
+            "id": "fc8e6d92ba353402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folders Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Folders Architecture"
+            }
+          },
+          {
+            "id": "f5aaf35f4342bef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup Work Environment (Packages).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup Work Environment (Packages)"
+            }
+          },
+          {
+            "id": "e59669b099c34a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating Home_Widget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creating Home_Widget"
+            }
+          },
+          {
+            "id": "70e3582bb65f34f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gradelw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gradelw"
+            }
+          },
+          {
+            "id": "7955007508f8d34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Websites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Useful Websites"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8d7082178581b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a69beeb8e0505ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117b469fc63a6a61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f53026c989184a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "status",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0adf930879abc323",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "030d9cff782667b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c08320a25ca66aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a21562da8f899df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Presentation Layer/Widgets/Input and Selection/TextFormField.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TextFormField"
+            }
+          },
+          {
+            "id": "5cdd3eeb5bbb1187",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Presentation Layer/Widgets/Input and Selection/TextFormField.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TextFormField"
+            }
+          },
+          {
+            "id": "77d60853728d32c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f33e74b74849762",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Presentation Layer/Widgets/Input and Selection/TextFormField.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TextFormField"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5aaf35f4342bef7",
+  "lastOpenFiles": [
+    "Useful Websites.md",
+    "Status Bar of the Mobile.md",
+    "Setup Work Environment (Packages).md",
+    "Projects I want to Build.md",
+    "Project Flow.canvas",
+    "Notes to be Added Later.md",
+    "Java_Gradle.md",
+    "Java version Problems.md",
+    "gradelw.md",
+    "How to Hide Status Bar.md",
+    "GitHub Repositories.md",
+    "Fuckin Errors.md",
+    "Folders Architecture.md",
+    "Flutter Most Important Websites.md",
+    "Flutter Issues.md",
+    "Creating Home_Widget.md",
+    "dfsafd.md",
+    "Back Ground/Flutter Fonts.md",
+    "Back Ground/Lock Orientation.md",
+    "Back Ground/Create a Custom Icon Font.md",
+    "Back Ground/2. Changing App Name, Bundle id, Package Name and App SHA.md",
+    "Back Ground/1. Changing App Icon.md",
+    "Presentation Layer/Widgets/Input and Selection/TextFormField.md",
+    "Flutter API.md",
+    "Features/Changing app name according to Device Language.md",
+    "Welcome.md",
+    "Searching in Flutter",
+    "Presentation Layer/Widgets/Scrolling",
+    "Presentation Layer/Widgets/Navigation and Routing",
+    "Presentation Layer/Widgets/Material Design",
+    "Presentation Layer/Widgets/Visible on screen",
+    "Presentation Layer/Widgets/Utility",
+    "Presentation Layer/Widgets/Styling and Theming",
+    "Presentation Layer/Widgets/Platform-Specific",
+    "Presentation Layer/Widgets/Interactive",
+    "Presentation Layer/Widgets/Layout",
+    "attachment/image/warning.png",
+    "attachment/image/Switch Widget.png",
+    "attachment/image/sdk used.png",
+    "attachment/image/Screenshot (3).png",
+    "attachment/image/project Layers.png",
+    "attachment/image/Pasted image 20250118193659.png",
+    "attachment/image/minSdk Version.png",
+    "attachment/image/Kotlin Version.png",
+    "attachment/image/java version in my project.png",
+    "attachment/image/intl initialization.png"
+  ]
+}
