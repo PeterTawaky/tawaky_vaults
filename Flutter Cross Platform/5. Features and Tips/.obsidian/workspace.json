@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,7 +237,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f1e2c461266f357",
+  "active": "e13d09d9215851c7",
   "lastOpenFiles": [
     "Create a Root Folder and Files Structure.md",
     "Splash Screen.md",
